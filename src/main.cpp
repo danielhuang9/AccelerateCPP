@@ -1,9 +1,7 @@
 #include <iostream>
-#include "chap01/Formula.h"
-#include "chap04/grade.h"
-#include "chap04/xtest.h"
+#include "chap06/xtest6.h"
 
 int main() {
-    test();
+    test06();
     return 0;
 }
