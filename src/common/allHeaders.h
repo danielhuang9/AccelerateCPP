@@ -9,10 +9,11 @@
 #include <list>
 #include <map>
 #include <queue>
-
+#include <iostream>
 #include <string>
 #include <algorithm>
 #include <cctype>
+#include <numeric>
 
 using namespace std;
 

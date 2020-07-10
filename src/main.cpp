@@ -1,7 +1,7 @@
 #include <iostream>
-#include "chap06/xtest6.h"
+#include "chap07/xtest7.h"
 
 int main() {
-    test06();
+    test07();
     return 0;
 }
